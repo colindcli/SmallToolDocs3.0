@@ -1,0 +1,4 @@
+SmallToolDocs
+=============
+
+Document
