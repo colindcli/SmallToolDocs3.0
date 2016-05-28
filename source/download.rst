@@ -1,7 +1,7 @@
 ﻿软件下载
 ==========
 
-官方网站：http://blog.smalltool.net/post/31.html
+官方网站：http://smalltool.github.io/
 
 百度网盘：http://pan.baidu.com/share/home?uk=2450394733
 
