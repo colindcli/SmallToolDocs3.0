@@ -1,17 +1,7 @@
 ﻿官方网址
 ---------------
 
-http://blog.smalltool.net/
-
-联系作者
---------------
-
-QQ：978478090
-
-我要报错
--------------
-
-http://blog.smalltool.net/post/31.html
+https://smalltool.github.io/
 
 意见反馈
 ------------
